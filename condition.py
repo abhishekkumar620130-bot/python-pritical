@@ -1,11 +1,20 @@
 # if condition
-number = int(input("Enter a number = "))
-if number >= 0:
-    print("positive")
-
+# number = int(input("Enter a number = "))
+# if number > 0:
+#     print("positive")
+ 
+#  else:
+#     print("negative")
     # else condition
-  number = int(input("Enter a number = "))
-if number >= 0:
-    print("Positive")
+
+number = int(input("Enter a number = "))
+if number > 0:
+    print("positive")
 else:
-    print("Negative")
+    print("negative")
+8
+  
+# if number >= 0:
+    # print("Positive")
+# else:
+    # print("Negative")
